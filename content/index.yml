@@ -1,11 +1,11 @@
-title: Nuxt UI Pro - Landing template
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+title: DR.MVTA  
+description: Dr.MVTA是基于先进的自然语言模型聚合开发的AI智能产品提供开箱即用的数据处理、模型调用等能力。同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的问答场景！
 hero:
-  title: Build your landing in seconds
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+  title: 帮您搭建私有化大模型企业大脑
+  description: 基于LLM大模型的”企业大脑+业务自动化“私有化化应用系统
   headline:
-    label: Made with Nuxt UI Pro
-    to: https://ui.nuxt.com/pro
+    label: Made with DR.MVTA
+    to: #https://ui.nuxt.com/pro
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
     - label: Get started
@@ -13,12 +13,12 @@ hero:
       trailing: true
       to: '#features'
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
-      size: xl
-      color: gray
-      to: https://github.com/nuxt-ui-pro/landing
-      target: _blank
+    # - label: Use this template
+    #   icon: i-simple-icons-github
+    #   size: xl
+    #   color: gray
+    #   to: #https://github.com/nuxt-ui-pro/landing
+    #   target: _blank
 logos:
   title: Trusted by the world's best
   icons:
@@ -29,7 +29,7 @@ logos:
     - i-simple-icons-cloudflare
 features:
   headline: Features
-  title: Why choose our service?
+  title: 为什么选择我们?
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   items:
     - title: Easy to use
@@ -51,7 +51,7 @@ features:
       description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
       icon: i-heroicons-chart-bar
 pricing:
-  headline: Pricing
+  headline: 价格
   title: A plan for every need
   description: Pariatur laborum dolor ea commodo sit aute aliquip qui et cillum excepteur.
   plans:
